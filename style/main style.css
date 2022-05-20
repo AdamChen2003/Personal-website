@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(34, 37, 37);
+    color:white;
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+    line-height: 2em;
+}
+
+.container {
+    width: 85%;
+    margin: auto;
+}
+
+.sections {
+    color: white;
+}
