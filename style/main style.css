@@ -56,3 +56,16 @@ a:active {
     font-size: larger;
     padding-right: 45px;
 }
+
+#showcase {
+    background-image:url('../images/main-background-final.jpg');
+    background-position: center;
+    min-height: 400px;
+    background-repeat: no-repeat;
+}
+
+#showcase p {
+    text-align: center;
+    font-size: larger;
+    padding-top: 5%;
+}
